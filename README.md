@@ -19,6 +19,8 @@ It fetches real-time weather data and 5-day forecasts using the OpenWeatherMap A
 
 🔁 Quick Reset: One-click option to clear results and start a new search.
 
+
+
 🧩 Project Structure
 weather-app/
 
@@ -45,6 +47,8 @@ weather-app/
 └── README.md           # Project documentation
 
 
+
+
 ⚙️ Technologies Used
 
 HTML5 – For structured layout
@@ -56,6 +60,8 @@ JavaScript (ES6) – For dynamic data handling and API integration
 OpenWeatherMap API – For real-time weather and forecast data
 
 Google Fonts (Montserrat) – For modern typography
+
+
 
 🔑 API Setup
 
@@ -75,6 +81,8 @@ var apiKey = "b1fd6e14799699504191b6bdbcadfc35";
 Replace it with your own key:
 
 var apiKey = "YOUR_API_KEY";
+
+
 
 🧠 How It Works
 
